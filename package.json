@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-tesla-janverchen",
+  "version": "1.0.0",
+  "description": "just test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janverchen/test.git"
+  },
+  "keywords": [
+    "tesla",
+    "test"
+  ],
+  "author": "janverchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janverchen/test/issues"
+  },
+  "homepage": "https://github.com/janverchen/test#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
