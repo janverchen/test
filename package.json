@@ -1,6 +1,6 @@
 {
   "name": "homebridge-tesla-janver",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tesla support for Homebridge: https://github.com/janverchen/test.git",
   "main": "index.js",
   "license": "MIT",
